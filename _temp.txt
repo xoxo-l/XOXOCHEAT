@@ -1,0 +1,108 @@
+Module Interface Instance
+----------------------------------------------------------------------
+client.dll VCLIENTTOOLS001 23c89aa0
+client.dll CustomSteamImageOnModel_IMaterialProxy003 45b1600
+client.dll ItemTintColor_IMaterialProxy003 45b1610
+client.dll VGuiModuleLoader003 23c52e80
+client.dll RunGameEngine005 1f7fede0
+client.dll GameUI011 23c52bb0
+client.dll GameConsole004 1f7fec58
+client.dll VENGINE_GAMETYPES_VERSION002 23c524a8
+client.dll VClientPrediction001 23c51b80
+client.dll GameMovement001 23c4ef78
+client.dll RenderToRTHelper001 23c40d38
+client.dll VParticleSystemQuery004 23c3e5b0
+client.dll IEffects001 1f7e86c0
+client.dll ClientAlphaPropertyMgrV001 23836d8c
+client.dll ClientLeafSystem002 23836d80
+client.dll VClientEntityList003 23826d04
+client.dll VCLIENTMATERIALSYSTEM001 1f7e6c20
+client.dll VClient017 23801a10
+client.dll VClientDllSharedAppSystems001 238019e4
+client.dll GameClientExports001 1f7e68ac
+client.dll ClientRenderTargets001 1f7e1414
+----------------------------------------------------------------------
+Module Interface Instance
+----------------------------------------------------------------------
+engine.dll VEngineVGui001 d450e30
+engine.dll VSERVERENGINETOOLS001 d20f930
+engine.dll VCLIENTENGINETOOLS001 d20f8e4
+engine.dll VTOOLFRAMEWORKVERSION002 d450dd0
+engine.dll VENGINETOOLFRAMEWORK003 d450b98
+engine.dll VENGINETOOL003 d450b98
+engine.dll XboxSystemInterface002 d20f768
+engine.dll VProfExport001 d20f228
+engine.dll VoiceServer002 d20efc0
+engine.dll VENGINE_GAMEUIFUNCS_VERSION005 d20e7fc
+engine.dll VENGINE_HLDS_API_VERSION002 d20e7f4
+engine.dll VENGINE_LAUNCHER_API_VERSION004 d20e86c
+engine.dll FileLoggingListener001 d20e1a0
+engine.dll StaticPropMgrServer002 d44ee98
+engine.dll StaticPropMgrClient005 d44ee94
+engine.dll SpatialPartition001 d44ec40
+engine.dll VEngineRandom001 d20d6a4
+engine.dll VEngineServerStringTable001 d20d310
+engine.dll VEngineClientStringTable001 d20d2d0
+engine.dll INETSUPPORT_002 d20c61c
+engine.dll VModelInfoClient004 d44e720
+engine.dll VModelInfoServer002 d44e790
+engine.dll GAMEEVENTSMANAGER001 d205ecc
+engine.dll GAMEEVENTSMANAGER002 d431a20
+engine.dll EngineTraceClient004 d4319d0
+engine.dll EngineTraceServer004 d205b5c
+engine.dll VCvarQuery001 d205074
+engine.dll BugReporterUserName001 d204958
+engine.dll BlackBoxVersion001 d4224a0
+engine.dll VEngineServer023 d204070
+engine.dll ServerUploadGameStats001 d203050
+engine.dll GameServerData001 d422180
+engine.dll ISERVERPLUGINHELPERS001 d202b80
+engine.dll VEngineRenderView014 d200798
+engine.dll VEngineShadowMgr002 d3ef940
+engine.dll VEngineEffects001 d2000fc
+engine.dll VEngineModel016 d3ce700
+engine.dll VPhysicsDebugOverlay001 d1fc14c
+engine.dll VDebugOverlay004 d1fc148
+engine.dll VEngineClient014 d1f9690
+engine.dll IEngineSoundServer003 d18840c
+engine.dll IEngineSoundClient003 d1883d4
+----------------------------------------------------------------------
+Module Interface Instance
+----------------------------------------------------------------------
+vgui2.dll VGUI_Panel009 f2dc4cc
+vgui2.dll VGUI_ivgui008 f2e8390
+vgui2.dll VGUI_System010 f2dc278
+vgui2.dll SchemeSurface001 f2e8214
+vgui2.dll VGUI_Surface031 f2e8210
+vgui2.dll VGUI_Scheme010 f2e81c0
+vgui2.dll VGUI_InputInternal001 f2e6e90
+vgui2.dll VGUI_Input005 f2e6e90
+----------------------------------------------------------------------
+Module Interface Instance
+----------------------------------------------------------------------
+vguimatsurface.dllSchemeSurface001 f20bdf
+vguimatsurface.dllVGUI_Surface031 f20bdf
+----------------------------------------------------------------------
+Module Interface Instance
+----------------------------------------------------------------------
+materialsystem.dllShaderDLL004 2363d7
+materialsystem.dllShaderSystem002 dc1487
+materialsystem.dllVMaterialSystemStub001 dbe82f
+materialsystem.dllVEngineCvar007 19210
+materialsystem.dllMaterialSystemHardwareConfig013 f3dbde
+materialsystem.dllVMaterialSystemConfig004 dbe7eb
+materialsystem.dllVMaterialSystem080 dc0b03
+materialsystem.dllCOLORCORRECTION_VERSION_1 dbe697
+----------------------------------------------------------------------
+Module Interface Instance
+----------------------------------------------------------------------
+vphysics.dll VPhysicsSurfaceProps001 db05ea0
+vphysics.dll VPhysicsCollision007 db05e10
+vphysics.dll VPhysics031 dafa4c8
+----------------------------------------------------------------------
+Module Interface Instance
+----------------------------------------------------------------------
+vstdlib.dll VProcessUtils002 18f5b0
+vstdlib.dll EventSystem001 18e5b0
+vstdlib.dll VEngineCvar007 192100
+----------------------------------------------------------------------
