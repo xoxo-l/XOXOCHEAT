@@ -5,7 +5,7 @@ CS:GO python3 cheat
 * **Trigger** - Working
 * **BHOP**- Working
 * **Glow** - Working
-* **Aimbot** - Broken
+* **Aimbot** - Working
 
 <details>
 	<summary><b>Notes</b></summary>
@@ -29,5 +29,3 @@ pip3 install -r req.txt
 ```bash
 python main.pyw
 ```
-
-__Discord: Lusqueta#2808__
